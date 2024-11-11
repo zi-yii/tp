@@ -54,6 +54,9 @@
         "2-addclaim-amount": "2. addClaim amount",
         "3-add-command-and-edit-command-does-not-allow-clients-to-have-same-names-yet-allows-two-people-to-have-the-same-contact-details": "3. Add command and Edit Command does not allow clients to have same names yet allows two people to have the same contact details.",
         "4-flexible-command-keywords": "4. Flexible Command Keywords.",
+        "5-no-wrapping-for-very-long-ui-details": "5. No Wrapping for very long ui details",
+        "6-some-common-names-are-not-allowed-to-be-entered": "6. Some common names are not allowed to be entered",
+        "7-currently-our-find-function-only-supports-finding-by-name": "7. Currently, our find function only supports finding by name",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -128,6 +131,7 @@
         "changing-the-theme-of-the-app": "Changing the theme of the app",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
+        "auto-sorting-of-claims": "Auto-Sorting of claims",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
